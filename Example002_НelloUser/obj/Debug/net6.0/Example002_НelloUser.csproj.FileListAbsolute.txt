@@ -1,0 +1,15 @@
+C:\Users\Achilles G 101\Desktop\Studies\Examples\Example002_НelloUser\bin\Debug\net6.0\Example002_НelloUser.exe
+C:\Users\Achilles G 101\Desktop\Studies\Examples\Example002_НelloUser\bin\Debug\net6.0\Example002_НelloUser.deps.json
+C:\Users\Achilles G 101\Desktop\Studies\Examples\Example002_НelloUser\bin\Debug\net6.0\Example002_НelloUser.runtimeconfig.json
+C:\Users\Achilles G 101\Desktop\Studies\Examples\Example002_НelloUser\bin\Debug\net6.0\Example002_НelloUser.dll
+C:\Users\Achilles G 101\Desktop\Studies\Examples\Example002_НelloUser\bin\Debug\net6.0\Example002_НelloUser.pdb
+C:\Users\Achilles G 101\Desktop\Studies\Examples\Example002_НelloUser\obj\Debug\net6.0\Example002_НelloUser.csproj.AssemblyReference.cache
+C:\Users\Achilles G 101\Desktop\Studies\Examples\Example002_НelloUser\obj\Debug\net6.0\Example002_НelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Achilles G 101\Desktop\Studies\Examples\Example002_НelloUser\obj\Debug\net6.0\Example002_НelloUser.AssemblyInfoInputs.cache
+C:\Users\Achilles G 101\Desktop\Studies\Examples\Example002_НelloUser\obj\Debug\net6.0\Example002_НelloUser.AssemblyInfo.cs
+C:\Users\Achilles G 101\Desktop\Studies\Examples\Example002_НelloUser\obj\Debug\net6.0\Example002_НelloUser.csproj.CoreCompileInputs.cache
+C:\Users\Achilles G 101\Desktop\Studies\Examples\Example002_НelloUser\obj\Debug\net6.0\Example002_НelloUser.dll
+C:\Users\Achilles G 101\Desktop\Studies\Examples\Example002_НelloUser\obj\Debug\net6.0\refint\Example002_НelloUser.dll
+C:\Users\Achilles G 101\Desktop\Studies\Examples\Example002_НelloUser\obj\Debug\net6.0\Example002_НelloUser.pdb
+C:\Users\Achilles G 101\Desktop\Studies\Examples\Example002_НelloUser\obj\Debug\net6.0\Example002_НelloUser.genruntimeconfig.cache
+C:\Users\Achilles G 101\Desktop\Studies\Examples\Example002_НelloUser\obj\Debug\net6.0\ref\Example002_НelloUser.dll
